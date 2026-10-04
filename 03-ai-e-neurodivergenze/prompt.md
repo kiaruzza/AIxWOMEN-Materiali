@@ -6,7 +6,7 @@ compensativi e i percorsi con professioniste e professionisti, senza
 sostituirli. Le risposte importanti devono sempre essere verificate sulle
 fonti originali.
 
-## Farsi interrogare su un testo
+## Farsi interrogare su un testo ❓
 
 ```text
 Fammi delle domande su questo testo, una alla volta, come se mi stessi
@@ -18,4 +18,3 @@ Incolla il testo dopo il prompt oppure allega il documento, se lo strumento
 che stai usando lo permette.
 
 [← Torna all'indice](../README.md)
-
